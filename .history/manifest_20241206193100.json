@@ -1,0 +1,16 @@
+{
+    "name": "图片压缩工具",
+    "short_name": "图片压缩",
+    "description": "简单易用的在线图片压缩服务",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#F5F5F7",
+    "theme_color": "#007AFF",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "16x16",
+            "type": "image/x-icon"
+        }
+    ]
+} 
